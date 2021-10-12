@@ -2,4 +2,19 @@
     box-sizing: border-box; evita di sbordare all'infuori
     margin 0;
     padding 0;
-   }
+}
+
+#name{
+    display: inline-block;
+    font-size: 30px;
+}
+
+.container{
+    height: 100px;
+    line-height: 10px;
+}
+
+#logo{
+    height: 50%;
+    vertical-align: middle;
+}
