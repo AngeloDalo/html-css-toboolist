@@ -40,13 +40,16 @@ main{
     height: 30px;
     color: grey;
     background-color: white;
+    margin-bottom: 3em;
 }
 
+/*css liste*/
 .ul-primary{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     font-weight: bold;
     list-style-image: url(../img/download.png);
+    margin-top: 15px;
 }
 
 .editorial{
@@ -86,6 +89,7 @@ main{
 }
 
 .check{
+    margin-left: -35px;
     margin-top: 10px;
     font-family: sans-serif;
     list-style-image: url(../img/Yes_Check_Circle.svg\ \(1\).png);
@@ -93,10 +97,12 @@ main{
 }
 
 .cross{
+    margin-left: -35px;
     margin-top: 10px;
     font-family: sans-serif;
     list-style-image: url(../img/red-cross-in-circle-1147526\ \(1\).jpg);
     font-size: 15px;
 }
+/*fine css liste*/
 /*fine main*/
 
