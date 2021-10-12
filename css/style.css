@@ -48,4 +48,54 @@ main{
     font-weight: bold;
     list-style-image: url(../img/download.png);
 }
+
+li{
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+
+.editorial{
+   border-radius: 15%;
+   background-color: aqua; 
+   color: white;
+}
+
+.Q1-goals{
+    border-radius: 15%;
+    background-color: purple;
+    color: white;
+}
+
+.Recrutiling{
+    border-radius: 15%;
+    background-color:green;
+    color: white;
+}
+
+.Website{
+    border-radius: 15%;
+    background-color: violet;
+    color: white;
+}
+
+.Mobile{
+    border-radius: 15%;
+    background-color: orange;
+    color: white;
+}
+
+.Sales{
+    border-radius: 15%;
+    background-color: olive;
+    color: white;
+}
+
+.check{
+    list-style-image: url(../img/download.png);
+}
+
+.cross{
+    list-style-image: url(../img/download.png);
+}
 /*fine main*/
+
