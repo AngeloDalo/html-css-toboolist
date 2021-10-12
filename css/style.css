@@ -1,0 +1,5 @@
+*{
+    box-sizing: border-box; evita di sbordare all'infuori
+    margin 0;
+    padding 0;
+   }
