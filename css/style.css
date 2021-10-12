@@ -4,6 +4,7 @@
     padding 0;
 }
 
+/*header*/
 #name{
     display: inline-block;
     font-size: 30px;
@@ -12,9 +13,32 @@
 .container{
     height: 100px;
     line-height: 10px;
+    margin-left: 2%;
 }
 
 #logo{
     height: 50%;
     vertical-align: middle;
 }
+/*fine header*/
+
+/*main*/
+main{
+    margin-top: 20px;
+    margin-left: 25%;
+}
+
+#button1{
+    border-radius: 15%;
+    height: 30px;
+    background-color: rgb(2, 218, 247);
+    color: white;
+}
+
+#button2{
+    border-radius: 15%;
+    height: 30px;
+    color: grey;
+    background-color: white;
+}
+/*fine main*/
