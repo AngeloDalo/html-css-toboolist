@@ -49,11 +49,6 @@ main{
     list-style-image: url(../img/download.png);
 }
 
-li{
-    margin-bottom: 10px;
-    font-family: sans-serif;
-}
-
 .editorial{
    border-radius: 15%;
    background-color: aqua; 
@@ -91,11 +86,17 @@ li{
 }
 
 .check{
-    list-style-image: url(../img/download.png);
+    margin-top: 10px;
+    font-family: sans-serif;
+    list-style-image: url(../img/Yes_Check_Circle.svg\ \(1\).png);
+    font-size: 15px;
 }
 
 .cross{
-    list-style-image: url(../img/download.png);
+    margin-top: 10px;
+    font-family: sans-serif;
+    list-style-image: url(../img/red-cross-in-circle-1147526\ \(1\).jpg);
+    font-size: 15px;
 }
 /*fine main*/
 
